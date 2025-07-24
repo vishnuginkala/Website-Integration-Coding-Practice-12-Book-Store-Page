@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-background {
+    background-color: #1b1b1b;
+    padding: 15px;
+}
+
+.home-mn-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.home-apj-image {
+    height: 182px;
+    width: 120px;
+
+}
+
+.home-apj-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.home-apj-card-heading {
+    font-size: 15px;
+    color: #183b56;
+    font-family: "Bree Serif";
+}
+
+.home-apj-card-description {
+    font-size: 12px;
+    color: #06070d;
+    font-family: "Bree Serif";
+}
+
+.home-apj-card-author {
+    font-size: 10px;
+    color: #183b56;
+    font-family: "Bree Serif";
+}
+
+.home-sd-heading {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Bree Serif";
+}
+
+.home-bottom-image {
+    height: 130px;
+    width: 80px;
+}
+
+.home-bottom-heading {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "Bree Serif";
+}
+
+.home-bottom-description {
+    color: #e4e7eb;
+    font-size: 10px;
+    font-family: "Bree Serif";
+}
+
+.margin {
+    margin: 10px;
+}
+
+.button {
+    font-size: 12px;
+}
+
+.detail-page-background {
+    background-color: #1b1b1b;
+    text-align: center;
+}
+
+.detail-apj-image {
+    height: 260px;
+    width: 170px;
+    margin: 20px;
+}
+
+.detail-page-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.detail-page-auther {
+    color: #9aa5b1;
+    font-size: 12px;
+    font-family: "Bree Serif";
+}
+
+.detail-page-description {
+    color: #e4e7eb;
+    font-size: 12px;
+    font-family: "Roboto";
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.detail-page-back-button {
+    height: 30px;
+    width: 50px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 2px;
+    margin-bottom: 20px;
+}
+
+.detail-page-buynow-button {
+    height: 30px;
+    width: 80px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 2px;
+}
